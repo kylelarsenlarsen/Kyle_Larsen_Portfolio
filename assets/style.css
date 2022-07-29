@@ -4,12 +4,18 @@ body {
 }
 
 .navbar-brand {
-    font-size: 100px;
+    font-size: 75px;
     font-family: OCRB;
     color:#d9d9d9;
 }
 
 .navbar-link {
+    color:#d9d9d9;
+}
+
+.nav-item a {
+    font-size: 20px;
+    font-family: OCRB;
     color:#d9d9d9;
 }
 
@@ -24,18 +30,22 @@ body {
 
 .big-image h2 {
     color:#d9d9d9;
+    font-family: OCRB;
 }
 
 .big-image p {
     color:#d9d9d9;
+    font-family: OCRB;
 }
 
 .blue-box h2 {
     color:#d9d9d9;
+    font-family: OCRB;
 }
 
 .blue-box p {
     color:#d9d9d9;
+    font-family: OCRB;
 }
 
 header {
